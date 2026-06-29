@@ -1,0 +1,6 @@
+{
+  "name": "Edunara",
+  "description": "Platform Tryout PPG (Pendidikan Profesi Guru) dengan simulasi ujian waktu nyata, analisis performa cerdas, pembahasan detail, dan peringkat langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
